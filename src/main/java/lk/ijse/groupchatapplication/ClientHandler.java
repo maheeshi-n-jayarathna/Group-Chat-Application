@@ -6,12 +6,6 @@ import java.io.IOException;
 import java.net.Socket;
 import java.util.ArrayList;
 
-/**
- * Created By shamodha_s_rathnamalala
- * Date : 5/21/2023
- * Time :10:51 PM
- */
-
 public class ClientHandler implements Runnable{
     private static final ArrayList<ClientHandler> clientHandlers = new ArrayList<>();
     private Socket socket;
