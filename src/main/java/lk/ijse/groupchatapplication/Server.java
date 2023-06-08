@@ -4,12 +4,6 @@ import java.io.IOException;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-/**
- * Created By shamodha_s_rathnamalala
- * Date : 6/8/2023
- * Time : 4:33 PM
- */
-
 public class Server {
     private final ServerSocket serverSocket;
 
