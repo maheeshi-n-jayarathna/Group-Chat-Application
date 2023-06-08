@@ -21,12 +21,6 @@ import java.net.URL;
 import java.nio.file.Files;
 import java.util.ResourceBundle;
 
-/**
- * Created By shamodha_s_rathnamalala
- * Date : 6/8/2023
- * Time : 4:03 PM
- */
-
 public class ChatFormController implements Initializable {
     @FXML
     public AnchorPane ancPane;
